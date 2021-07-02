@@ -18,9 +18,9 @@ The commands I currently support are:
 /stop - clear the queue and remove the userbot from the call`,
         {
             reply_markup: new InlineKeyboard()
-                .url("🔈 News Channel", "https://t.me/callsmusic")
+                .url("🔈 Song Channel", "https://t.me/daimax_kyurem")
                 .row()
-                .url("💬 Support Group", "https://t.me/callsmusicchat"),
+                .url("💬 Memes Group", "https://t.me/AnimeAnteiku"),
         }
     );
 });
